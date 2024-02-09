@@ -11,6 +11,11 @@ import './charInfo.scss';
 const CharInfo = (props) => {
 
    const [char, setChar] = useState(null);
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 381c1532b3d336f5f8a2d1bc3339270b98e8d3af
    const {error, loading, getCharacter,clearError} = useMarvelService();
 
    useEffect(() => {

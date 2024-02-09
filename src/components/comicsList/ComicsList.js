@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import {useState, useEffect} from 'react';
 import { Link } from 'react-router-dom';
 
@@ -11,6 +12,20 @@ const ComicsList = () => {
 
     const [comicsList, setComicsList] = useState([]);
     const [newItemLoading, setnewItemLoading] = useState(false);
+=======
+import {useState, useEffect} from "react";
+
+import Spinner from "../spinner/Spinner";
+import ErrorMessage from "../errorMessage/ErrorMessage";
+import useMarvelService from "../../services/MarvelService";
+import './comicsList.scss';
+
+
+const ComicsList = () => {
+
+    const [comicsList, setComicsList] = useState([]);
+    const [newItemLoading, setNewItemLoading] = useState(false);
+>>>>>>> 381c1532b3d336f5f8a2d1bc3339270b98e8d3af
     const [offset, setOffset] = useState(0);
     const [comicsEnded, setComicsEnded] = useState(false);
 
@@ -21,7 +36,11 @@ const ComicsList = () => {
     }, [])
 
     const onRequest = (offset, initial) => {
+<<<<<<< HEAD
         initial ? setnewItemLoading(false) : setnewItemLoading(true);
+=======
+        initial ? setNewItemLoading(false) : setNewItemLoading(true);
+>>>>>>> 381c1532b3d336f5f8a2d1bc3339270b98e8d3af
         getAllComics(offset)
             .then(onComicsListLoaded)
     }
@@ -32,7 +51,11 @@ const ComicsList = () => {
             ended = true;
         }
         setComicsList([...comicsList, ...newComicsList]);
+<<<<<<< HEAD
         setnewItemLoading(false);
+=======
+        setNewItemLoading(false);
+>>>>>>> 381c1532b3d336f5f8a2d1bc3339270b98e8d3af
         setOffset(offset + 8);
         setComicsEnded(ended);
     }
@@ -41,11 +64,19 @@ const ComicsList = () => {
         const items = arr.map((item, i) => {
             return (
                 <li className="comics__item" key={i}>
+<<<<<<< HEAD
                     <Link to={`/comics/${item.id}`}>
                         <img src={item.thumbnail} alt={item.title} className="comics__item-img"/>
                         <div className="comics__item-name">{item.title}</div>
                         <div className="comics__item-price">{item.price}</div>
                     </Link>
+=======
+                    <a href="#">
+                        <img src={item.thumbnail} alt={item.title} className="comics__item-img"/>
+                        <div className="comics__item-name">{item.title}</div>
+                        <div className="comics__item-price">{item.price}</div>
+                    </a>
+>>>>>>> 381c1532b3d336f5f8a2d1bc3339270b98e8d3af
                 </li>
             )
         })
