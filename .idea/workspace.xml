@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fba13b9a-d0e0-4708-8f83-e2ca7fc3fab8" name="Changes" comment="Add features for searching Character">
-      <change afterPath="$PROJECT_DIR$/src/components/charSearchForm/CharSearchForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/charSearchForm/charSearchForm.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pages/SinglePage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pages/singleCharacterLayout/SingleCharacterLayout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pages/singleCharacterLayout/singleCharacterLayout.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pages/singleComicLayout/SingleComicLayout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pages/singleComicLayout/singleComicLayout.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/app/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/comicsList/ComicsList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/comicsList/ComicsList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pages/MainPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/MainPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pages/SingleComicPage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pages/singleComicPage.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/MarvelService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/MarvelService.js" afterDir="false" />
-    </list>
+    <list default="true" id="fba13b9a-d0e0-4708-8f83-e2ca7fc3fab8" name="Changes" comment="Add features for searching Character" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +70,7 @@
       <workItem from="1708093373250" duration="3960000" />
       <workItem from="1708168986267" duration="1193000" />
       <workItem from="1708170204304" duration="233000" />
-      <workItem from="1708251882187" duration="1486000" />
+      <workItem from="1708251882187" duration="1834000" />
     </task>
     <task id="LOCAL-00001" summary="Add features for searching Character">
       <option name="closed" value="true" />
