@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fba13b9a-d0e0-4708-8f83-e2ca7fc3fab8" name="Changes" comment="Add features for searching Character" />
+    <list default="true" id="fba13b9a-d0e0-4708-8f83-e2ca7fc3fab8" name="Changes" comment="Add features for searching Character">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/appBanner/appBanner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/appBanner/appBanner.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/appHeader/appHeader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/appHeader/appHeader.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/charInfo/charInfo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/charInfo/charInfo.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/ComicsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/ComicsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/MainPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/MainPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/singleCharacterLayout/SingleCharacterLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/singleCharacterLayout/SingleCharacterLayout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/singleComicLayout/SingleComicLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/singleComicLayout/SingleComicLayout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/randomChar/randomChar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/randomChar/randomChar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/style/button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/style/button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/style/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/style/style.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +34,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -32,22 +48,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\marvel\marvel_API\src" />
@@ -70,7 +86,8 @@
       <workItem from="1708093373250" duration="3960000" />
       <workItem from="1708168986267" duration="1193000" />
       <workItem from="1708170204304" duration="233000" />
-      <workItem from="1708251882187" duration="1834000" />
+      <workItem from="1708251882187" duration="4840000" />
+      <workItem from="1708340921259" duration="629000" />
     </task>
     <task id="LOCAL-00001" summary="Add features for searching Character">
       <option name="closed" value="true" />
